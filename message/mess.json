@@ -1,0 +1,18 @@
+{
+  "wait": "*Tunggu permintaan anda sedang diproses*",
+  "success": "*SUCCESS* || Follows Instagram @iamharis05",
+  "badmin": "Bot harus menjadi admin",
+  "limit": "Limit kamu sudah habis silahkan kirim #buylimit untuk membeli limit",
+  "error": {
+       "stick": "Failed to Convert Image To Sticker...Try Again",
+       "Iv": "Link yang kamu berikan tidak valid",
+       "api": "Maaf terjadi kesalahan"
+  },
+  "only": {
+       "owner": "Perintah ini hanya dapat digunakan oleh owner bot",
+       "admin": "Perintah ini hanya bisa digunakan oleh admin grup",
+       "group": "Perintah ini hanya dapat digunakan di grup",
+       "prem": "Perintah ini khusus member premium",
+       "player": "Anda tidak terdaftar sebagai player dalam database, ketik #joinrpg untuk mendaftar"
+  }
+}
